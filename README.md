@@ -96,7 +96,7 @@ Les projets de cette section vous aideront à mettre en pratique les concepts de
   + Créez une application console qui permet d'ajouter, de modifier, de supprimer et de rechercher des contacts (nom, prénom, numéro de téléphone, email), en utilisant des classes.
 - [ ] [Gestion de bibliothèque](POO/)
   + Développez une application console qui permet de gérer une bibliothèque de livres (ajout, modification, suppression, recherche), en utilisant l'héritage et le polymorphisme.
-- [x] [Jeu de rôle simpliste]([POO/](https://github.com/AngelPASTORROJAS/Duel))
+- [x] [Jeu de rôle simpliste](https://github.com/AngelPASTORROJAS/Duel)
   + Créez un jeu de rôle console simple, avec des personnages, des ennemis et des combats, en utilisant les concepts de la POO.
 - [ ] [Jeu de dés](POO/)
   + Créez un jeu de dés console, avec des joueurs, des lancers de dés et un système de points.
